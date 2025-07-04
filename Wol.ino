@@ -2,9 +2,9 @@
 #include <ESPAsyncWebServer.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "H369ABF038A";
-const char* password = "D5679F29DF69";
-const char* targetMac = "bc:ae:c5:33:8f:1e";
+const char* ssid = "-";
+const char* password = "-";
+const char* targetMac = "-";
 
 AsyncWebServer server(80);
 WiFiUDP udp;
