@@ -1,1 +1,1 @@
-# Wake On Lan On Esp32
+# An ESP32-based web server that sends Wake-on-LAN (WoL) packets to power on devices remotely.
